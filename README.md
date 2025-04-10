@@ -1,7 +1,7 @@
 # homelab
 A collection of services that can be self-hosted.  
 **Bold indicates I have deployed it myself.** Otherwise I just find it interesting.  
-Also check out [Techdox](https://docs.techdox.nz/) and [Awesome-Selfhosted](https://awesome-selfhosted.net/).  
+Also check out [Techdox](https://docs.techdox.nz/), [Awesome-Selfhosted](https://awesome-selfhosted.net/), and [r/homelab](https://www.reddit.com/r/homelab/).
 
 Icons for your self-hosted solutions: [selfh.st](https://selfh.st/icons/)
 # Analytics
