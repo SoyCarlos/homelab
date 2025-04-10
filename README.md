@@ -12,27 +12,27 @@ Icons for your self-hosted solutions: [selfh.st](https://selfh.st/icons/)
 - [Ghost](https://ghost.org/)
 
 # Dashboards
-- [Homarr](https://homarr.dev/)
-- [Homepage](https://gethomepage.dev/)
+- [**Homarr**](https://homarr.dev/)
+- [**Homepage**](https://gethomepage.dev/)
 
 # Docker-Related
-- [Portainer](https://www.portainer.io/)
+- [**Portainer**](https://www.portainer.io/)
 
 # Gaming
 - [Pterodactyl](https://pterodactyl.io/)
-- [playit.gg](https://playit.gg/)
-- [Crafty Controller](https://craftycontrol.com/)
+- [**playit.gg**](https://playit.gg/)
+- [**Crafty Controller**](https://craftycontrol.com/)
 
 # Life Management
-- [Wallos](https://www.wallosapp.com/)
+- [**Wallos**](https://www.wallosapp.com/)
 
 # Logging
 - [Grafana](https://grafana.com/grafana/) + [Loki](https://grafana.com/oss/loki/)
 - [Goaccess](https://goaccess.io/)
 
 # Low Code 
-- [Appsmith](https://www.appsmith.com/)
-- [Budibase](https://budibase.com/)
+- [**Appsmith**](https://www.appsmith.com/)
+- [**Budibase**](https://budibase.com/)
 
 # Media Server
 - [Plex](https://www.plex.tv/)
@@ -47,10 +47,10 @@ Icons for your self-hosted solutions: [selfh.st](https://selfh.st/icons/)
 # Network Management
 - [Caddy](https://caddyserver.com/)
 - [Traefik](https://traefik.io/traefik/)
-- [Nginx Proxy Manager](https://nginxproxymanager.com/)
+- [**Nginx Proxy Manager**](https://nginxproxymanager.com/)
 
 # Notifications
-- [ntfy](https://ntfy.sh/)
+- [**ntfy**](https://ntfy.sh/)
 
 # Photo Management
 - [Immich](https://immich.app/)
@@ -60,17 +60,17 @@ Icons for your self-hosted solutions: [selfh.st](https://selfh.st/icons/)
 - [Coolify](https://coolify.io/)
 
 # Productivity 
-- [Docmost](https://docmost.com/)
+- [**Docmost**](https://docmost.com/)
 - [Huly](https://huly.io/)
-- [Plane](https://plane.so/)
-- [Excalidraw](https://excalidraw.com/)
+- [**Plane**](https://plane.so/)
+- [**Excalidraw**](https://excalidraw.com/)
 - [NocoDB](https://www.nocodb.com/)
 
 # Smart Home
-- [Home Assistant](https://www.home-assistant.io/)
+- [**Home Assistant**](https://www.home-assistant.io/)
 
 # Software Development - Design
-- [Penpot](https://penpot.app/)
+- [**Penpot**](https://penpot.app/)
 
 # Software Development - Git
 - [Gitea](https://about.gitea.com/products/gitea/)
