@@ -1,5 +1,5 @@
 # homelab
-A collection of services that can be self-hosted.  
+A collection of services that can be self-hosted and tools that help homelabbing.
 **Asterisks ( ** ) indicate I have deployed it myself.** Otherwise I just find it interesting.  
 Also check out [Techdox](https://docs.techdox.nz/), [Awesome-Selfhosted](https://awesome-selfhosted.net/), and [r/homelab](https://www.reddit.com/r/homelab/).
 
@@ -25,6 +25,10 @@ Icons for your self-hosted solutions: [selfh.st](https://selfh.st/icons/)
 - [Pterodactyl](https://pterodactyl.io/)
 - [playit.gg](https://playit.gg/)**
 - [Crafty Controller](https://craftycontrol.com/)**
+
+# KVM
+- [GL.iNet Comet](https://www.gl-inet.com/products/gl-rm1/)
+- [JetKVM](https://jetkvm.com/)**
 
 # Life Management
 - [Wallos](https://www.wallosapp.com/)**
